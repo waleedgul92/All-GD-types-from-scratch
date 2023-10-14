@@ -1,1 +1,1 @@
-# waleedgul92-All-GD-types-from-scratch
+# All-GD-types-from-scratch
