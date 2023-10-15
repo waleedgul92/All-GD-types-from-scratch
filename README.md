@@ -1,2 +1,2 @@
-# All-GD-types-from-scratch
+# Description
 implemented batch , stochastic gradient descent from scratch
