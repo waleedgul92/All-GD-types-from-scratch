@@ -1,2 +1,2 @@
 # Description
-implemented batch , stochastic gradient descent from scratch
+Implemented batch , stochastic gradient descent from scratch
